@@ -1,3 +1,5 @@
+[![GoDoc](https://godoc.org/github.com/may215/go2aws?status.svg)](https://godoc.org/github.com/may215/go2aws)
+
 go2aws
 ===============
 
